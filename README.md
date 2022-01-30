@@ -18,3 +18,5 @@ $ npm init
 ```
 $ npm install node-fetch
 ```
+
+### When hosting on live server, change port to 3000 and add ```/earth``` or ```/asteroids``` to view either tracker
