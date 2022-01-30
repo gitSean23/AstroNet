@@ -1,6 +1,6 @@
 # GeoNet
 
-![image](https://user-images.githubusercontent.com/66270571/151686540-b9d2aa18-5cb4-4e01-9896-76ee151643d5.png)
+![image](https://user-images.githubusercontent.com/66270571/151686550-f5934531-2e51-40e1-b29d-e0a9be8e3634.png)
 Image by: bigmouse108
 
 
