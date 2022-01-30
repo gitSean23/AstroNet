@@ -1,6 +1,7 @@
 # GeoNet
 
-![image](https://user-images.githubusercontent.com/66270571/151686480-20cfa265-aceb-4781-b766-8cb2ff2e8ff6.png)
+![image](https://user-images.githubusercontent.com/66270571/151686488-eb761ac4-a301-421a-a0a5-a3807a890f3d.png)
+Image by: bigmouse108
 
 
 # Install Node.js
