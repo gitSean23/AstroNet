@@ -19,5 +19,5 @@ $ npm init
 $ npm install node-fetch
 ```
 
-#### Run ```node server.js``` in the terminal
+#### Run ```node server.js``` in the terminal to run the app (no need to worry about the others ".js" files)
 #### When hosting on live server, change port to 3000 and add ```/earth``` or ```/asteroids``` to view either tracker
