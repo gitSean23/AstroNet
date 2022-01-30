@@ -7,6 +7,8 @@ Image by: bigmouse108
 
 ### Install Node.js
 
+https://nodejs.org/en/download/
+
 ### Install npm
 ```
 $ npm init
