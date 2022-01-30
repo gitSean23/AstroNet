@@ -20,4 +20,4 @@ $ npm install node-fetch
 ```
 
 #### Run ```node server.js``` in the terminal
-### When hosting on live server, change port to 3000 and add ```/earth``` or ```/asteroids``` to view either tracker
+#### When hosting on live server, change port to 3000 and add ```/earth``` or ```/asteroids``` to view either tracker
