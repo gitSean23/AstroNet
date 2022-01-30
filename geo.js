@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 var i;
-const url = "https://eonet.gsfc.nasa.gov/api/v3/events?days=1";
+const url = "https://eonet.gsfc.nasa.gov/api/v3/events?days=2";
 fetch(url)
 .then(response => response.json())
 .then(data => {
@@ -12,7 +12,9 @@ fetch(url)
     {
         for(i in data.events)
         {
-            console.log(data.events[i].title)
+            console.log("Event: " + data.events[i].title)
+            console.log("Category: " + data.events[i].categories[0].title)
+            console.log()
         }
     }
 })
